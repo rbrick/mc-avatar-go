@@ -2,3 +2,5 @@
 *.json
 mc-avatar-go
 *.exe
+*.db
+*.sql
