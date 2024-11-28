@@ -1,0 +1,4 @@
+.env
+*.json
+mc-avatar-go
+*.exe
